@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vercel Deployment Assistant",
+  "description": "A professional React dashboard to help users verify their Vercel deployment settings and test their Gemini API configuration.",
+  "requestFramePermissions": []
+}
